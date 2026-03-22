@@ -1,30 +1,80 @@
-# Hi there, I'm okellodev 👋
+<h1 align="center">Hi 👋, I'm Okello</h1>
+<h3 align="center">A passionate developer crafting beautiful and functional software</h3>
 
-## 👨‍💻 About Me
-I'm a passionate developer focused on building amazing applications and exploring new technologies. Welcome to my GitHub profile where I showcase my coding journey, skills, and projects! I'm constantly learning and building new things.
-
-## 🚀 Skills
-- **Frontend Development:** HTML, CSS, JavaScript, React, Vue
-- **Backend Development:** Node.js, Python, Databases (SQL & NoSQL)
-- **Tools & DevOps:** Git, GitHub, Docker, Linux
-
-## 🎓 Certificates
-*A showcase of my earned certificates so far!*
-- 🏅 [Placeholder: E.g., Full Stack Development Certificate]
-- 🏅 [Placeholder: E.g., Cloud Computing Certification]
-
-*(I will be updating this section with my actual certificates soon!)*
-
-## 📫 Connect with me
-Here are the places you can find me online:
-- **Mastodon:** [@Logalgorithm@mastodon.social](https://mastodon.social/@Logalgorithm)
-- **Bluesky:** [@okellodev.bsky.social](https://bsky.app/profile/okellodev.bsky.social)
-- **Instagram:** [@okellodev](https://instagram.com/okellodev)
-- **WhatsApp:** [+213551867896](https://wa.me/213551867896)
-
-## ☕ Support my work
-If you like my work, consider supporting me!
-- **Ko-fi:** [ko-fi.com/okellodev](https://ko-fi.com/okellodev)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+learning+new+tech;Building+cool+web+apps" alt="Typing SVG" />
+</p>
 
 ---
-⭐️ From **okellodev**
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **building a professional profile portfolio**
+- 🌱 I’m currently diving deeper into **Advanced Software Engineering practices**
+- 💬 Ask me about **Frontend architecture, Backend APIs, and system design**
+- 📫 How to reach me: **[benedictusokello@gmail.com](mailto:benedictusokello@gmail.com)**
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+</p>
+
+---
+
+### 🎓 Certifications & Achievements
+
+*(A continuous journey of learning and improvement)*
+
+- 🏆 **[Insert Name of Certificate Here]** - *[Issuing Organization]*
+- 🏆 **[Insert Name of Certificate Here]** - *[Issuing Organization]*
+- 🏆 **[Insert Name of Certificate Here]** - *[Issuing Organization]*
+
+*(Update these with your real certificates once ready!)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okellodev&show_icons=true&theme=radical" alt="okellodev's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okellodev&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="https://mastodon.social/@Logalgorithm" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodon-3088D4?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+  </a>
+  <a href="https://bsky.app/profile/okellodev.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+  </a>
+  <a href="https://instagram.com/okellodev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/213551867896" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+### ☕ Support my work
+
+<p align="center">
+  <a href="https://ko-fi.com/okellodev" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</p>
