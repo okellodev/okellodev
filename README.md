@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **building a professional profile portfolio**
+- 🔭 I’m currently learning **more fields in my adhoc style**
 - 🌱 I’m currently diving deeper into **Advanced Software Engineering practices**
 - 💬 Ask me about **Frontend architecture, Backend APIs, and system design**
-- 📫 How to reach me: **[benedictusokello@gmail.com](mailto:benedictusokello@gmail.com)**
+- 📫 How to reach me: **[okello367@outlook.com](mailto:okello367@outlook.com)**
 
 ---
 
