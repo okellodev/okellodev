@@ -37,11 +37,12 @@
 
 *(A continuous journey of learning and improvement)*
 
-- 🏆 **[Insert Name of Certificate Here]** - *[Issuing Organization]*
-- 🏆 **[Insert Name of Certificate Here]** - *[Issuing Organization]*
-- 🏆 **[Insert Name of Certificate Here]** - *[Issuing Organization]*
-
-*(Update these with your real certificates once ready!)*
+- 🏆 **[AWS: Introduction to Containers](./certs/aws-cert.pdf)**
+- 🏆 **[AWS Fargate - Overview](./certs/aws-fargate.pdf)**
+- 🏆 **[Cisco DevNet Associate](./certs/devnet-associate.pdf)**
+- 🏆 **[HTML Essentials](./certs/html-essentials.pdf)**
+- 🏆 **[Introduction to Cybersecurity](./certs/intro-to-cybersecurity.pdf)**
+- 🏆 **[Python Essentials 1](./certs/python-essentials-1.pdf)**
 
 ---
 
