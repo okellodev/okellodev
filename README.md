@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently diving deeper into **Advanced Software Engineering practices**
 - 💬 Ask me about **Frontend architecture, Backend APIs, and system design**
-- 📫 How to reach me: **[okello367@outlook.com](mailto:okello367@outlook.com)**
+- 📫 How to reach me: **[admin@okellodev.us.kg](mailto:admin@okellodev.us.kg)**
 - ⚡ Fun fact: I enjoy **"vibe coding"** in my free time—getting into a creative flow state to build passion projects, experiment with fresh ideas, and keep the art of software development fun!
 
 ---
