@@ -53,9 +53,9 @@
 
 Here are a few projects I am publicly sharing and collaborating on:
 
-- 🌟 **[Stretch Therapy](https://github.com/okellodev/Stretch_Therapy)**: A comprehensive stretch therapy web project.
-- 🌟 **[tra-koyeb](https://github.com/okellodev/tra-koyeb)**: A deployment environment repository containing configurations and services.
-- 🌟 **[Guerison](https://github.com/okellodev/Guerison)**: A frontend/expo project setup with its core environment configurations.
+- 🌟 **[Stretch Therapy](https://stretchtherapykenya.site)**: A comprehensive stretch therapy web project.
+- 🌟 **tra-koyeb**: A deployment environment repository containing configurations and services.
+- 🌟 **Guerison**: A frontend/expo project setup with its core environment configurations.
 
 ### 📊 GitHub Stats
 
