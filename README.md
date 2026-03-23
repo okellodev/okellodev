@@ -7,6 +7,13 @@
 
 ---
 
+
+### 🚀 Core Expertise
+- **Network Automation & DevOps:** Cisco DevNet Associate, API Management (REST/Webhooks), Docker & Containers, CI/CD Pipelines
+- **Security Engineering:** Threat Detection, Risk Assessment, Encryption, Network Defense (Cisco Certified)
+- **Cloud Architecture:** AWS Containers, Fargate Deployment, Scalable Infrastructure Design
+- **Programming:** Python (Essentials Certified), JavaScript, React, Node.js
+
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently diving deeper into **Advanced Software Engineering practices**
@@ -43,7 +50,8 @@
 - 🏆 **[AWS Fargate - Overview](./certs/aws-fargate.pdf)**
 - 🏆 **[Cisco DevNet Associate](./certs/devnet-associate.pdf)** <img src="./devnet-badge.png" width="24" align="center">
 - 🏆 **[HTML Essentials](./certs/html-essentials.pdf)**
-- 🏆 **[Introduction to Cybersecurity](./certs/intro-to-cybersecurity.pdf)**
+- 🏆 **[Introduction to Cybersecurity (JKUAT)](./certs/cybersecurity-jkuat.pdf)**
+- 🏆 **[Introduction to Cybersecurity (ALTI)](./certs/intro-to-cybersecurity.pdf)**
 - 🏆 **[Python Essentials 1](./certs/python-essentials-1.pdf)**
 
 ---
