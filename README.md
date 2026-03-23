@@ -34,12 +34,14 @@
 ---
 
 ### 🎓 Certifications & Achievements
+#### 🏆 [View all verified credentials on Credly](https://www.credly.com/users/benedictus-owambo)
+
 
 *(A continuous journey of learning and improvement)*
 
 - 🏆 **[AWS: Introduction to Containers](./certs/aws-cert.pdf)**
 - 🏆 **[AWS Fargate - Overview](./certs/aws-fargate.pdf)**
-- 🏆 **[Cisco DevNet Associate](./certs/devnet-associate.pdf)**
+- 🏆 **[Cisco DevNet Associate](./certs/devnet-associate.pdf)** <img src="./devnet-badge.png" width="24" align="center">
 - 🏆 **[HTML Essentials](./certs/html-essentials.pdf)**
 - 🏆 **[Introduction to Cybersecurity](./certs/intro-to-cybersecurity.pdf)**
 - 🏆 **[Python Essentials 1](./certs/python-essentials-1.pdf)**
